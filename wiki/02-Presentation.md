@@ -23,7 +23,8 @@ Des ressources sont disponibles sur ces différents points:
 Afin de répondre aux besoins de divers groupes et de différents contextes, trois niveaux de conformité ont été définis : A (le plus bas), AA et AAA (le plus élevé).
 
 La liste des critères est disponible en référence sur l'organisation du W3C et sur Gouv.fr:
-* 🔗 [Critères](https://references.modernisation.gouv.fr/rgaa-accessibilite/criteres.html)
+* 🔗 [Critères RGAA3](https://references.modernisation.gouv.fr/rgaa-accessibilite/criteres.html)
+* 🔗 [Critères RGAA4](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/criteres/#contenu)
 
 ___
 
