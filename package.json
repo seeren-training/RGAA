@@ -1,0 +1,37 @@
+{
+  "name": "html-training",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  },
+  "sass": "src/index",
+  "main": "src/index",
+  "devDependencies": {
+    "@babel/core": "latest",
+    "@babel/preset-env": "latest",
+    "@babel/register": "latest",
+    "babel-loader": "latest",
+    "babel-plugin-istanbul": "latest",
+    "browser-sync": "latest",
+    "browser-sync-webpack-plugin": "latest",
+    "css-loader": "latest",
+    "file-loader": "latest",
+    "mini-css-extract-plugin": "latest",
+    "node-sass": "latest",
+    "raw-loader": "latest",
+    "sass-loader": "latest",
+    "style-loader": "latest",
+    "webpack": "latest",
+    "webpack-cli": "latest"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
