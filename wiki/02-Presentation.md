@@ -70,7 +70,7 @@ La « déclaration de conformité » est l'étape finale de la vérification de 
 
 La déclaration de conformité porte au minimum sur la liste de pages suivantes du site, lorsqu'elles existent :
 
-* Page d'**accueil** (page constituant le point d'entrée principale du service de communication publique en ligne, elle est généralement accessible par une adresse de la forme http://www.urldusite.extension)
+* Page d'**accueil** (page constituant le point d'entrée principale du service de communication publique en ligne, elle est généralement accessible par une adresse de la forme` http://www.urldusite.extension`)
 * Page **contact** (page contenant les informations de contact ou le ou les formulaires permettant de contacter directement le ou les responsables du service de communication publique en ligne) ;
 * Page **mentions légales**
 * Page **politique d'accessibilité** : outre les informations relatives à l'évolution globale de l'accessibilité du site, cette page contiendra les renseignements relatifs à la déclaration de conformité dont la liste des pages ou secteurs du service dérogeant aux exigences d'accessibilité, leur type de contenu et les solutions alternatives pour y accéder
