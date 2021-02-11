@@ -4,11 +4,11 @@
 *  🔖 **Évaluation**
 *  🔖 **Suivi**
 
-![image](https://raw.githubusercontent.com/seeren-training/RGAA/master/wiki/resources/conformity.jpg)
-
 ___
 
 ## 📑 Recommandations
+
+![image](https://raw.githubusercontent.com/seeren-training/RGAA/master/wiki/resources/conformity.jpg)
 
 La liste de recommandation à suivre correspond aux critères A, AA et AAA. Rappelons que le règlement européen estime le niveau AA suffisant.
 
@@ -28,14 +28,15 @@ La liste de recommandation concerne les éléments suivants:
 * Navigation
 * Consultation
 
-Le détail des critères est référencé à l'adresse suivante: https://references.modernisation.gouv.fr/rgaa-accessibilite/criteres.html
+[Critères](https://references.modernisation.gouv.fr/rgaa-accessibilite/criteres.html)
 
 En fonction de la méthodologie de travail de l'entreprise, son support et sa vérification peut différer. Ces critères devrait faire partis de la **"Definition Of Done"** à respecter pour qu'une pull request soit fusionnée et la travail accepté.
 
 Des guides par fonction sont proposés.
 
-* 🔗 [Guide intégrateur](https://disic.github.io/guide-integrateur/)
-* 🔗 [Guide developpeur](https://disic.github.io/guide-developpeur/)
+[Guide intégrateur](https://disic.github.io/guide-integrateur/)
+
+[Guide developpeur](https://disic.github.io/guide-developpeur/)
 
 ___
 
@@ -45,15 +46,15 @@ Afin de vérifier si un affichage est conforme aux critères selon un niveau d�
 
 A la façon d'un recettage, une grille pour chaque critère est disponible au format Excel. Les ressources vers la grille de test sont disponibles à sur la section référence modernisation:
 
-* 🔗 [Modèle de grille d’audit RGAA version 4,](https://www.numerique.gouv.fr/uploads/rgaa/rgaa4.0.modele-de-grille-d-audit.ods)
+[Modèle de grille d’audit RGAA version 4,](https://www.numerique.gouv.fr/uploads/rgaa/rgaa4.0.modele-de-grille-d-audit.ods)
 
 Le gouvernement nous oriente vers différents outils permettant d'effectuer les test: 
 
-* 🔗 [Méthodologie de test](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methodologie-test/)
+[Méthodologie de test](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methodologie-test/)
 
-Une fois en production ou en préproduction il existe des services en ligne évaluant automatiquement le niveau d'accessibilité: https://app.asqatasun.org/home.html
+Une fois en production ou en préproduction il existe des services en ligne évaluant automatiquement le niveau d'accessibilité.
 
-> A la place de perdre du temps à effectuer des vérification manuelles hors contexte de développement, j'insiste sur le fait qu'investir sur des tests d'intégration en JavaScript me paraît opportun afin que pendant le développement, une automatisation indique le niveau d’accessibilité.
+> A la place de perdre du temps à effectuer des vérification manuelles hors contexte de développement, j'insiste sur le fait qu'investir sur des tests d'intégration est opportun afin que pendant le développement, une automatisation indique le niveau d’accessibilité.
 
 ___
 
@@ -65,7 +66,7 @@ Le chef de projet peut être en charge d'accepter et de valider le travail effec
 
 Pour les chefs de projet un guide est disponible, le suivi de l'accessibilité est décrit dans un guide.
 
-* 🔗 [Guide chef de projets](https://disic.github.io/guide-chef_projets/)
+[Guide chef de projets](https://disic.github.io/guide-chef_projets/)
 
 Les obligations sont les suivantes:
 
@@ -75,7 +76,7 @@ Les obligations sont les suivantes:
 
 Un modèle de déclaration de conformité est disponible.
 
-* 🔗 [Déclaration De Conformite](http://disic.github.io/rgaa_modeles_documents/declaration-de-conformite.html#)
+[Déclaration De Conformite](http://disic.github.io/rgaa_modeles_documents/declaration-de-conformite.html#)
 
 ### 🏷️ **[Référent](https://references.modernisation.gouv.fr/4223-designation-dun-referent-accessibilite-0)**
 
@@ -95,8 +96,7 @@ Malgré l’évaluation et la conformité aux critères il est là pour s'assure
 Principe 1 : un site perceptible
 
 * Faire en sorte que chaque information soit perceptible par tout utilisateur, et par tous les sens (équivalents textuels pour tout contenu non textuel afin de permettre une synthèse vocale ou une transcription brailles, grands caractères, audio-description, langage simplifié…).
-* Proposer des versions de remplacement aux médias audio, vidéo ou animations Flash.
-    Créer un contenu présentable de différentes manières sans perte d’information (ex. : mise en page simplifiée).
+* Proposer des versions de remplacement aux médias audio, vidéo ou animations Flash. Créer un contenu présentable de différentes manières sans perte d’information (ex. : mise en page simplifiée).
 
 Principe 2 : un site utilisable
 

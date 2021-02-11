@@ -3,10 +3,11 @@
 *  🔖 **Présentation**
 *  🔖 **Aide technique**
 
-![image](https://raw.githubusercontent.com/seeren-training/RGAA/master/wiki/resources/rgaa.jpg)
-
 ___
+
 ## 📑 [Présentation](https://disic.github.io/guide-impacts_utilisateurs/personnes.html)
+
+![image](https://raw.githubusercontent.com/seeren-training/RGAA/master/wiki/resources/rgaa.jpg)
 
 Au-delà des déficiences, chacun est différent et il serait vain de vouloir décrire l’ensemble des situations de handicap résultant d’un manque d’adaptation des contenus et des fonctionnalités d’un site ou d’une application web.
 

@@ -14,7 +14,7 @@ Les critères des images sont disponibles sur le référentiel des critères.
 
 Valeur attribuée aux polices de caractères présentes sur une page web. Pour les contenus web, les tailles de caractères doivent être définies avec des unités relatives (%, em, rem, vw, vh, vmin ou vmax) ou des mots clés (xx-small, x-small, small, medium, large, x-large, xx-large, smaller, larger).
 
-> Note : l'utilisation du pixel (px) est proscrite.
+> L'utilisation du pixel (px) est proscrite.
 
 ### 🏷️ **[Background](https://www.w3.org/Translations/WCAG20-fr/#visual-audio-contrast-visual-presentation)**
 

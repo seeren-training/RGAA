@@ -25,4 +25,4 @@ En fonction de la nature d'un élément, son contraste doit être à un ratio mi
 
 Vous pouvez calculer le ratio de vos couleurs en ligne et obtenir des propositions de correction.
 
-🔗 [Contrast Finder](https://contrast-finder.tanaguru.com/)
+[Contrast Finder](https://contrast-finder.tanaguru.com/)

@@ -3,11 +3,11 @@
 *  🔖 **Cadre légal**
 *  🔖 **Déclaration**
 
-![image](https://raw.githubusercontent.com/seeren-training/RGAA/master/wiki/resources/rgaa-4.png)
-
 ___
 
 ## 📑 Cadre légal
+
+![image](https://raw.githubusercontent.com/seeren-training/RGAA/master/wiki/resources/rgaa-4.png)
 
 Les services publics numériques et certains services privés ont l’obligation d’être accessibles de façon équivalente à tout citoyen, qu’il soit ou non en situation de handicap (visuel, auditif, moteur, trouble dys…). Un service numérique accessible est plus facile à utiliser pour les personnes handicapées et de meilleure qualité pour tous.
 
@@ -15,20 +15,23 @@ Les services publics numériques et certains services privés ont l’obligation
 
 Des ressources sont disponibles sur ces différents points:
 
-* 🔗 [Obligations](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/obligations/#contenu)
-* 🔗 [Référentiel](https://www.numerique.gouv.fr/uploads/RGAA-v4.0.pdf)
+[Obligations](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/obligations/#contenu)
+
+[Référentiel](https://www.numerique.gouv.fr/uploads/RGAA-v4.0.pdf)
 
 ### 🏷️ **[Niveaux d'accessibilité](http://references.modernisation.gouv.fr/421-niveaux-de-conformite-aux-normes-daccessibilite-0)**
 
 Afin de répondre aux besoins de divers groupes et de différents contextes, trois niveaux de conformité ont été définis : A (le plus bas), AA et AAA (le plus élevé).
 
 La liste des critères est disponible en référence sur l'organisation du W3C et sur Gouv.fr:
-* 🔗 [Critères RGAA3](https://references.modernisation.gouv.fr/rgaa-accessibilite/criteres.html)
-* 🔗 [Critères RGAA4](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/criteres/#contenu)
+
+[Critères RGAA3](https://references.modernisation.gouv.fr/rgaa-accessibilite/criteres.html)
+
+[Critères RGAA4](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/criteres/#contenu)
 
 ___
 
-|Niveau|Définition de la conformité|Critères|
+|N|Définition de la conformité|Critères|
 |-|-|-|
 |A|pour une conformité de niveau A (le niveau minimal), la page web satisfait à tous les critères de succès de niveau A ou une version de remplacement est fournie.|Critères de succès essentiels pouvant raisonnablement s'appliquer à toutes les ressources web.|
 |AA|pour une conformité de niveau AA, la page web remplit tous les critères de succès de niveau A et AA ou une version de remplacement conforme au niveau AA est fournie.|Critères de succès pouvant raisonnablement s'appliquer à toutes les ressources web.|
@@ -52,7 +55,7 @@ Un volet conformité progressif, avec 5 niveaux
 
 ___
 
-|Niveau|Conformité|
+|N|Conformité|
 |-|-|
 |1|50 critères essentiels|
 |2|Tous les critères RGAA niveau simple A|
@@ -70,14 +73,14 @@ La « déclaration de conformité » est l'étape finale de la vérification de 
 
 La déclaration de conformité porte au minimum sur la liste de pages suivantes du site, lorsqu'elles existent :
 
-* Page d'**accueil** (page constituant le point d'entrée principale du service de communication publique en ligne, elle est généralement accessible par une adresse de la forme` http://www.urldusite.extension`)
-* Page **contact** (page contenant les informations de contact ou le ou les formulaires permettant de contacter directement le ou les responsables du service de communication publique en ligne) ;
-* Page **mentions légales**
-* Page **politique d'accessibilité** : outre les informations relatives à l'évolution globale de l'accessibilité du site, cette page contiendra les renseignements relatifs à la déclaration de conformité dont la liste des pages ou secteurs du service dérogeant aux exigences d'accessibilité, leur type de contenu et les solutions alternatives pour y accéder
-* Page **aide** (page contenant les informations facilitant l'utilisation du site, raccourcis claviers, éventuels, logiciels/plug-in nécessaires à la consultation du site). La page d'aide, obligatoire, doit mentionner les coordonnées d'un contact29 au sein de l'administration et les coordonnées du défenseur des droits
-* Page **plan du site** (page récapitulant l'arborescence du site ou permettant plus largement une navigation au sein des différentes pages composant le services de communication publique en ligne)
-* Page **recherche** (page dont l'objet principal est la mise à disposition d'un formulaire de recherche ou des résultats d'une recherche)
-* Pages d'**accès** aux contenus ou fonctionnalités principaux (ex : rubriques de 1er niveau dans l'arborescence…)
+* Page d'accueil (page constituant le point d'entrée principale du service de communication publique en ligne, elle est généralement accessible par une adresse de la forme` http://www.urldusite.extension`)
+* Page contact (page contenant les informations de contact ou le ou les formulaires permettant de contacter directement le ou les responsables du service de communication publique en ligne) ;
+* Page mentions légales
+* Page politique d'accessibilité : outre les informations relatives à l'évolution globale de l'accessibilité du site, cette page contiendra les renseignements relatifs à la déclaration de conformité dont la liste des pages ou secteurs du service dérogeant aux exigences d'accessibilité, leur type de contenu et les solutions alternatives pour y accéder
+* Page aide (page contenant les informations facilitant l'utilisation du site, raccourcis claviers, éventuels, logiciels/plug-in nécessaires à la consultation du site). La page d'aide, obligatoire, doit mentionner les coordonnées d'un contact29 au sein de l'administration et les coordonnées du défenseur des droits
+* Page plan du site (page récapitulant l'arborescence du site ou permettant plus largement une navigation au sein des différentes pages composant le services de communication publique en ligne)
+* Page recherche (page dont l'objet principal est la mise à disposition d'un formulaire de recherche ou des résultats d'une recherche)
+* Pages d'accès aux contenus ou fonctionnalités principaux (ex : rubriques de 1er niveau dans l'arborescence…)
 * Pages représentatives des types de contenus disponibles sur le site (ex. : page contenant des tableaux de données, des éléments multimédia, des illustrations, des formulaires, etc.) 
 * Pages ayant le plus grand nombre de visiteurs.
 

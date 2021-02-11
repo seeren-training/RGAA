@@ -20,6 +20,7 @@ Cela concerne, à la fois, la technologie, ses fonctionnalités et ses usages :
 * La technologie fonctionne de façon native dans des agents utilisateurs largement distribués qui sont, eux-mêmes, compatibles avec l'accessibilité (comme HTML et CSS) ou avec un module d'extension largement distribué qui est, lui-même, compatible avec l'accessibilité.
 
 La vérification de la compatibilité avec les technologies d'assistance nécessite de réaliser un certain nombre de tests spécifiques à la technologie utilisée, par exemple :
+
 * Vérifier le nom, le rôle, le paramétrage et les changement d'états des composants d'interface ;
 * Vérifier que la restitution d'un composant d'interface est correcte pour la ou les technologies d'assistance utilisées.
 
@@ -31,7 +32,7 @@ La vérification de la compatibilité avec les technologies d'assistance nécess
 
 Dans le référentiel, l'expression « contrôlable par le clavier et la souris » se rapporte également à la présente définition.
 
-> Note importante : le recours à certaines technologies peut rendre la gestion du focus trop complexe ou trop instable pour ne reposer que sur la tabulation, les touches de direction et la touche entrée.
+> Le recours à certaines technologies peut rendre la gestion du focus trop complexe ou trop instable pour ne reposer que sur la tabulation, les touches de direction et la touche entrée.
 
 Dans ce cas, la mise à disposition de raccourcis clavier peut être la seule solution pour rendre le composant utilisable.
 

@@ -14,13 +14,13 @@ Les critères des images sont disponibles sur le référentiel des critères.
 
 L'alternative est décrite par ordre de priorité suivante selon les éléments concernés.
 
-*aria-labelledby*
+* aria-labelledby
 
 ```html
 <img src="./dk982dp.png"  aria-labelledby="Nom accessible de l'image" />
 ```
 
-*aria-label*
+* aria-label
 
 ```html
 <img src="./dk982dp.png"  aria-label="Nom accessible de l'image" usemap="#mymap" />
@@ -30,13 +30,13 @@ L'alternative est décrite par ordre de priorité suivante selon les éléments 
 </map>
 ```
 
-*alt*
+* alt
 
 ```html
 <img src="./dk982dp.png"  alt="Nom accessible de l'image" />
 ```
 
-*title*
+* title
 
 ```html
  <object data="./dk982dp.png" title="Nom accessible de l'image"></object> 
@@ -44,7 +44,7 @@ L'alternative est décrite par ordre de priorité suivante selon les éléments 
 
 ### 🏷️ **[Transcription](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#image-porteuse-d-information)**
 
-Lorsqu’un bouton de formulaire, inséré avec l’élément `<button>`, ne contient qu’une image (balise `<img>`, `<object>`, `<embed>`, `<canvas>` ou `<svg>`), l’alternative de l’image est l’intitulé du bouton. 
+Lorsqu’un bouton de formulaire, inséré avec l’élément `button`, ne contient qu’une image (balise `img`, `object`, `embed`, `canvas` ou `svg`), l’alternative de l’image est l’intitulé du bouton. 
 
 ### 🏷️ **[Background](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#image-de-decoration)**
 
@@ -72,9 +72,7 @@ HTML5 propose d’associer une légende à une image via les éléments figure (
 Une image sans légende peut définir :
 
 * Une image qui n’est pas insérée dans un élément figure;
-
 * Une image insérée dans un élément figure sans élément figcaption.
-
 
 ### 🏷️ **[Captcha](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#captcha)**
 
