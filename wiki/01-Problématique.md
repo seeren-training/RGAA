@@ -52,16 +52,16 @@ ___
 
 NonVisual Desktop Access (NVDA) est un lecteur d'écran libre et gratuit pour les utilisateurs de Windows. Il permet d'obtenir une synthèse vocale ou une version en braille du contenu disponible à l'écran, et ce pour les personnes ayant un handicap visuel. 
 
-🔗 [Guide sur les lecteurs d'écrans](https://disic.github.io/guide-lecteurs_ecran/lecteur-ecran.html)
+[Guide sur les lecteurs d'écrans](https://disic.github.io/guide-lecteurs_ecran/lecteur-ecran.html)
 
 ### 🏷️ **Contrast**
 
 Il est possible d'activer le contraste élevé dans window dans préférence/option d'ergonomie/contraste élevé.
 
-🔗 [Activer contraste elevé](https://support.microsoft.com/fr-fr/office/activer-ou-d%C3%A9sactiver-le-mode-contraste-%C3%A9lev%C3%A9-dans-windows-909e9d89-a0f9-a3a9-b993-7a6dcee85025)
+[Activer contraste elevé](https://support.microsoft.com/fr-fr/office/activer-ou-d%C3%A9sactiver-le-mode-contraste-%C3%A9lev%C3%A9-dans-windows-909e9d89-a0f9-a3a9-b993-7a6dcee85025)
 
 ### 🏷️ **Loupes**
 
 Il est possible d'activer le contraste élevé dans window dans préférence/option d'ergonomie/loupe.
 
-🔗 [Activer la loupe](https://support.microsoft.com/fr-fr/windows/utiliser-la-loupe-pour-mieux-voir-les-%C3%A9l%C3%A9ments-%C3%A0-l-%C3%A9cran-414948ba-8b1c-d3bd-8615-0e5e32204198)
+[Activer la loupe](https://support.microsoft.com/fr-fr/windows/utiliser-la-loupe-pour-mieux-voir-les-%C3%A9l%C3%A9ments-%C3%A0-l-%C3%A9cran-414948ba-8b1c-d3bd-8615-0e5e32204198)

@@ -18,7 +18,6 @@ L'indication donnée uniquement par la couleur doit être accompagnée d'une aut
 
 L'autre moyen de récupérer une information par la couleur peut être très divers, lorsqu'il s'agit d'un moyen faisant intervenir du graphisme (utilisation de CSS ou d'élément graphique) l'indication visuelle pourrait devoir être accompagnée d'une indication textuelle. Par exemple, un effet de bordure, de gras, de changement typographique ou autre dispositif similaire sera jugé insuffisant car ces indications ne seront pas accessibles aux personnes aveugles, notamment.
 
-
 ### 🏷️ **[Contraste](https://references.modernisation.gouv.fr/rgaa-accessibilite/glossaire.html#contraste)**
 
 En fonction de la nature d'un élément, son contraste doit être à un ratio minimum.
