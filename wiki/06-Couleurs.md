@@ -10,7 +10,7 @@ ___
 
 Les critères des images sont disponibles sur le référentiel des critères.
 
-### 🏷️ **[Information](https://references.modernisation.gouv.fr/rgaa-accessibilite/glossaire.html#information-donne-par-la-couleur)**
+### 🏷️ **Information**
 
 Information transmise visuellement par l'intermédiaire d'une couleur. L'indication que les champs en rouge sont obligatoires dans un formulaire, un changement de couleur de fond pour indiquer la page active dans un menu de navigation, le changement de couleur d'un nom d'article pour indiquer son indisponibilité dans une liste d'article sont autant d'exemples d'indication donnée par la couleur.
 
@@ -18,7 +18,7 @@ L'indication donnée uniquement par la couleur doit être accompagnée d'une aut
 
 L'autre moyen de récupérer une information par la couleur peut être très divers, lorsqu'il s'agit d'un moyen faisant intervenir du graphisme (utilisation de CSS ou d'élément graphique) l'indication visuelle pourrait devoir être accompagnée d'une indication textuelle. Par exemple, un effet de bordure, de gras, de changement typographique ou autre dispositif similaire sera jugé insuffisant car ces indications ne seront pas accessibles aux personnes aveugles, notamment.
 
-### 🏷️ **[Contraste](https://references.modernisation.gouv.fr/rgaa-accessibilite/glossaire.html#contraste)**
+### 🏷️ **Contraste**
 
 En fonction de la nature d'un élément, son contraste doit être à un ratio minimum.
 

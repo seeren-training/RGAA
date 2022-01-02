@@ -10,7 +10,7 @@ ___
 
 Les critères des images sont disponibles sur le référentiel des critères.
 
-### 🏷️ **[Titres](https://references.modernisation.gouv.fr/rgaa-accessibilite/glossaire.html#titre-de-cadre)**
+### 🏷️ **Titres**
 
 Contenu de l'attribut title de la balise iframe permettant de connaitre la nature du contenu diffusé via le cadre en ligne lorsque l'utilisateur navigue de cadre en cadre ou affiche la liste des cadres de la page par exemple.
 

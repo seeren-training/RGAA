@@ -10,7 +10,7 @@ ___
 
 Les critères des images sont disponibles sur le référentiel des critères.
 
-### 🏷️ **[Unité](https://references.modernisation.gouv.fr/rgaa-accessibilite/glossaire.html#taille-des-caractres)**
+### 🏷️ **Unité**
 
 Valeur attribuée aux polices de caractères présentes sur une page web. Pour les contenus web, les tailles de caractères doivent être définies avec des unités relatives (%, em, rem, vw, vh, vmin ou vmax) ou des mots clés (xx-small, x-small, small, medium, large, x-large, xx-large, smaller, larger).
 
@@ -23,7 +23,7 @@ Valeur attribuée aux polices de caractères présentes sur une page web. Pour l
 * Test 10.8.3 : Pour chaque bloc de texte contenu dans une balise object, embed, svg ou canvas, la couleur de fond est-elle contrôlable par l'utilisateur ?
 * Test 10.8.4 : Pour chaque bloc de texte contenu dans une balise object, embed, svg ou canvas, la couleur de police est-elle contrôlable par l'utilisateur ?
 
-### 🏷️ **[Focus](https://references.modernisation.gouv.fr/rgaa-accessibilite/glossaire.html#prise-de-focus)**
+### 🏷️ **Focus**
 
 La prise de focus est l'état renvoyé par un élément qui reçoit l'attention suite à une action de l'utilisateur. Il y a trois moyens en HTML de donner le focus à un élément :
 

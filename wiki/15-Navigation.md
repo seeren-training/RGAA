@@ -10,11 +10,11 @@ ___
 
 Les critères des images sont disponibles sur le référentiel des critères.
 
-### 🏷️ **[Evitement](https://references.modernisation.gouv.fr/critere-1211-dans-chaque-page-web-des-liens-devitement-ou-dacces-rapide-aux-groupes-de-liens-0)**
+### 🏷️ **Evitement**
 
 Des liens d'évitement accessible à chaque moment doivent être présents.
 
-### 🏷️ **[Ordre de tabulation](https://references.modernisation.gouv.fr/rgaa-accessibilite/glossaire.html#ordre-de-tabulation)**
+### 🏷️ **Ordre de tabulation**
 
 Ordre dans lequel le focus se déplace (vers un élément suivant ou vers un élément précédent). L'ordre naturel est celui qui est implémenté via le code source. Lorsqu'il est modifié par l'utilisation de l'attribut TabIndex ou par l'utilisation d'une commande JavaScript, c'est l'ordre modifié qui fait référence.
 

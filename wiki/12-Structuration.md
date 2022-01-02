@@ -10,7 +10,7 @@ ___
 
 Les critères des images sont disponibles sur le référentiel des critères.
 
-### 🏷️ **[Liste](https://references.modernisation.gouv.fr/rgaa-accessibilite/glossaire.html#listes)**
+### 🏷️ **Liste**
 
 Suite d'éléments pouvant être regroupés sous la forme d'une liste structurée ordonnée, non ordonnée ou de définition. Par exemple la suite des liens d'un menu de navigation est une liste de liens non ordonnée, les différentes étapes d'une procédure est une liste d'éléments ordonnés, le couple terme/définition d'un glossaire est une liste de définition. En HTML, les listes utilisent les balises suivantes :
 
@@ -23,7 +23,7 @@ Suite d'éléments pouvant être regroupés sous la forme d'une liste structuré
 * Test 9.6.1 : Dans chaque page web, chaque citation courte utilise-t-elle une balise q ?
 * Test 9.6.2 : Dans chaque page web, chaque bloc de citation utilise-t-il une balise blockquote ?
 
-### 🏷️ **[Titres](https://references.modernisation.gouv.fr/rgaa-accessibilite/glossaire.html#titre)**
+### 🏷️ **Titres**
 
 Élément HTML (balise h) à 6 niveaux de hiérarchie (de h1 pour le titre le plus important à h6 pour le moins important) permettant de structurer l'information d'un contenu web.
 
@@ -31,7 +31,7 @@ La hiérarchie entre les titres doit être respectée dans une page web et les d
 
 Dans chaque page web, il doit y avoir un titre h1, au moins.
 
-### 🏷️ **[Role](https://references.modernisation.gouv.fr/rgaa-accessibilite/glossaire.html#arborescence-du-document)**
+### 🏷️ **Role**
 
 * La zone d'en-tête de la page est structurée via une balise header.
 * Les zones de navigation principales et secondaires sont structurées via une balise nav.

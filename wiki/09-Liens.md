@@ -10,7 +10,7 @@ ___
 
 Les critères des images sont disponibles sur le référentiel des critères.
 
-### 🏷️ **[Intitulé](https://references.modernisation.gouv.fr/rgaa-accessibilite/glossaire.html#titre-de-lien)**
+### 🏷️ **Intitulé**
 
 Contenu de l'attribut title d'un lien. Ce contenu ne doit être présent que s'il est nécessaire pour identifier la destination du lien de manière explicite. Un titre de lien doit reprendre l'intitulé de lien en y ajoutant des informations. Un titre de lien sera considéré comme non-pertinent dans les cas suivants :
 
@@ -18,7 +18,7 @@ Contenu de l'attribut title d'un lien. Ce contenu ne doit être présent que s'i
 * Le titre de lien est identique à l'intitulé du lien (Cf. note 1) ;
 * Le titre de lien ne reprend pas l'intitulé du lien.
 
-### 🏷️ **[Image/Icones](https://references.modernisation.gouv.fr/rgaa-accessibilite/glossaire.html#lien-image)**
+### 🏷️ **Image/Icones**
 
 Lien dont le contenu entre `a href="…"` et </a> est uniquement constitué d'une image. L'intitulé de lien pour un lien image est le contenu de l'alternative textuelle de l'image.
 
@@ -30,7 +30,7 @@ Un lien image peut être constitué :
 * D'une image bitmap (balise canvas), l'alternative est contenue entre `canvas`;
 * D'une image vectorielle (balise svg), l'alternative est contenue dans l'attribut aria-label ou la balise `title`.
 
-### 🏷️ **[Evitement](https://references.modernisation.gouv.fr/critere-1211-dans-chaque-page-web-des-liens-devitement-ou-dacces-rapide-aux-groupes-de-liens-0)**
+### 🏷️ **Evitement**
 
 Les liens d'évitement doivent être présents et répondre à ces différents tests.
 

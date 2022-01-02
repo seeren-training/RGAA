@@ -10,7 +10,7 @@ ___
 
 Les critères des images sont disponibles sur le référentiel des critères.
 
-### 🏷️ **[Contrôle](https://references.modernisation.gouv.fr/rgaa-accessibilite/glossaire.html#contrle-de-la-consultation-dun-media-temporel)**
+### 🏷️ **Contrôle**
 
 Liste des fonctionnalités obligatoires de contrôle de la consultation
 
@@ -19,12 +19,12 @@ Liste des fonctionnalités obligatoires de contrôle de la consultation
 * Si l'objet multimédia a des sous-titres, il doit avoir une fonctionnalité de contrôle de l'apparition/disparition des sous-titres.
 * Si l'objet multimédia a une audiodescription, il doit avoir une fonctionnalité de contrôle de l'apparition/disparition de l'audiodescription.
 
-### 🏷️ **[Access](https://references.modernisation.gouv.fr/rgaa-accessibilite/glossaire.html#controle-son)**
+### 🏷️ **Access**
 
 * Chaque fonctionnalité doit être accessible par le clavier, via la touche de tabulation, et par la souris au moins.
 * Chaque fonctionnalité doit être activable par le clavier et par la souris, au moins.
 
-### 🏷️ **[Sous-Titre](https://references.modernisation.gouv.fr/rgaa-accessibilite/glossaire.html#soustitres-synchroniss-objet-multimdia)**
+### 🏷️ **Sous-Titre**
 
 Texte des informations audio (paroles d'un personnage, bruit important pour comprendre l'action…) présentes dans un média temporel et affiché de manière synchrone avec le flux de l'objet multimédia.
 

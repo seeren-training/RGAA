@@ -10,7 +10,7 @@ ___
 
 Les critères des images sont disponibles sur le référentiel des critères.
 
-### 🏷️ **[Compatibles](https://references.modernisation.gouv.fr/rgaa-accessibilite/glossaire.html#compatible-avec-les-technologies-dassistance)**
+### 🏷️ **Compatibles**
 
 Un contenu ou une fonctionnalité doit être compatible avec les technologies d'assistance des utilisateurs ainsi qu'avec les fonctions d'accessibilité des navigateurs et des autres agents utilisateurs via une API d'accessibilité.
 
@@ -24,7 +24,7 @@ La vérification de la compatibilité avec les technologies d'assistance nécess
 * Vérifier le nom, le rôle, le paramétrage et les changement d'états des composants d'interface ;
 * Vérifier que la restitution d'un composant d'interface est correcte pour la ou les technologies d'assistance utilisées.
 
-### 🏷️ **[Utilisables au clavier](https://references.modernisation.gouv.fr/rgaa-accessibilite/glossaire.html#accessible-et-activable-par-le-clavier-et-la-souris)**
+### 🏷️ **Utilisables au clavier**
 
 * Un composant d'interface (lien, bouton, élément cliquable dans Flash…) est accessible au clavier et à la souris lorsque l'utilisateur peut prendre, indifféremment, le focus par le pointeur de la souris ou la touche tabulation.
 * Un composant d'interface (lien, bouton, élément cliquable dans Flash…) est activable au clavier et à la souris lorsque l'utilisateur peut enclencher, indifféremment, l'action prévue par le composant d'interface par le clic de la souris ou la touche entrée du clavier.
