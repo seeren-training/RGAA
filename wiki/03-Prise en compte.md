@@ -68,7 +68,7 @@ Le gouvernement nous oriente vers différents outils permettant d'effectuer les 
 
 Afin de suivre les criètes un par un sur leur différents points, une méthodologie est fournie.
 
-[Méthodologie de test](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methodologie-test/)
+[Méthodologie de test](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/documentation-rgaa/methodologie-test/#contenu)
 
 ___
 
@@ -91,8 +91,6 @@ Les obligations sont les suivantes:
 ### 🏷️ **Référent**
 
 La direction doit nommer un membre de l’encadrement de l’organisme en tant que " référent accessibilité ". Ce référent qui, nonobstant d’autres responsabilités, doit avoir la responsabilité et l’autorité en particulier pour :
-
-[Guide Référent](https://references.modernisation.gouv.fr/4223-designation-dun-referent-accessibilite-0)
 
 * Assurer que les processus nécessaires à la prise en compte de l'accessibilité sont établis, mis en œuvre et entretenus.
 * Rendre compte à la direction du niveau d'accessibilité et de tout besoin d’amélioration.

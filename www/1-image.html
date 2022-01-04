@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image</title>
+</head>
+<body>
+    
+    <h2>Image informative</h2>
+    <p>
+        Nous auditons le site 
+        <img aria-label="numerique.gouv.fr" src="https://www.numerique.gouv.fr/assets/img/logos/LogoRF.svg"/>
+    </p>
+
+    <h2>Image décorative</h2>
+    <p>
+        Ceci est une décoration 
+        <img alt=""
+        aria-hidden="true"
+        src="https://www.numerique.gouv.fr/assets/img/logos/LogoRF.svg"/>
+    </p>
+
+    <h2>Image décorative avec legende</h2>
+    <p>
+        <figure>
+            <img alt="" src="https://www.numerique.gouv.fr/assets/img/logos/LogoRF.svg"/>
+            <figcaption tabindex="-1">
+                Ceci est une décoration 
+            </figcaption>
+        </figure>
+    </p>
+
+    <h2>Image réactive côté server</h2>
+    <p>
+        Télécharger le site: 
+        <a href="#download">
+            <img id="download" onclick="alert('download');"  alt="" src="https://www.numerique.gouv.fr/assets/img/logos/LogoRF.svg"/>
+        </a>
+    </p>
+
+    <h2>Image avec description longues</h2>
+    <p>
+        <figure>
+            <img alt="" 
+            longdesc="Ceci est une décoration reprennant le logo du site audité"
+            src="https://www.numerique.gouv.fr/assets/img/logos/LogoRF.svg"/>
+            <figcaption aria-hidden="true" tabindex="-1">
+                Ceci est une décoration 
+            </figcaption>
+        </figure>
+    </p>
+
+    <h2>Image informative stylé</h2>
+    <p>
+        <style scoped>
+            * {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            }
+            img {
+                color: red;
+                display: inline;
+            }
+        </style>
+        Nous auditons le site 
+        <img aria-label="numerique.gouv.fr" alt="numerique.gouv.fr" src=""/>
+    </p>
+
+</body>
+</html>

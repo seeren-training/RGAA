@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+</head>
+
+<body>
+
+    <h1>Table complexe</h1>
+    <style scoped>
+        caption {
+            display: none;
+        }
+    </style>
+    <table>
+        <thead>
+            <caption>Liste des participants divisée en colonnes "Prénom" et "Nom"</caption>
+            <tr>
+                <th colspan="2" aria-hidden="true">Liste des participants</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Cyril</td>
+                <td>Ichti</td>
+            </tr>
+            <tr>
+                <td>John</td>
+                <td>Doe</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h1>Table de mise en forme</h1>
+    <table>
+        <thead>
+            <tr>
+                <th scope="col">Prénom</th>
+                <th scope="col">Nom</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Cyril</td>
+                <td>Ichti</td>
+            </tr>
+            <tr>
+                <td>John</td>
+                <td>Doe</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h1>Table de données</h1>
+    <table>
+        <thead>
+            <tr>
+                <th id="prix" scope="col">Prix ($)</th>
+                <th id="percentage" scope="col">Remise (%)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td headers="prix">12</td>
+                <td headers="percentage">5</td>
+            </tr>
+            <tr>
+                <td headers="prix">33</td>
+                <td headers="percentage">5</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+
+</html>

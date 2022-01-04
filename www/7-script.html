@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Script</title>
+</head>
+
+<body>
+
+    <button>0</button>
+    <script>
+        var element = document.createElement('img');
+        element.src = "https://www.numerique.gouv.fr/assets/img/logos/LogoRF.svg";
+        element.setAttribute("aria-label", "numerique.gouv.fr");
+        document.body.appendChild(element);
+        // Angular attention aux polyfills:
+        // https://www.google.com/search?q=angular+polyfills+best&client=firefox-b-d&sxsrf=AOaemvJZNfYfMnkwW7LpSd-deLY2UovX7w%3A1641305499566&ei=m1XUYbaZItiZjLsP5YiykAg&ved=0ahUKEwj20pO6o5j1AhXYDGMBHWWEDIIQ4dUDCA0&uact=5&oq=angular+polyfills+best&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgcIIxCwAxAnOgcIABBHELADOgcIABCwAxBDOgQIIxAnOgYIIxAnEBM6BAgAEEM6CwguEIAEEMcBEKMCOhEILhCABBCxAxCDARDHARDRAzoFCC4QgAQ6CwgAEIAEELEDEIMBOggIABCABBCxAzoHCAAQsQMQQzoKCAAQgAQQhwIQFDoFCAAQgAQ6BQgAEMsBOgYIABAWEB5KBAhBGABKBAhGGABQgARY_Sdg1yloAXACeACAAWCIAb8IkgECMTaYAQCgAQHIAQrAAQE&sclient=gws-wiz
+        document.body.onclick = (e) => {
+            var btn = document.querySelector('button');
+            btn.innerHTML = parseInt(btn.innerHTML) + 1;
+            if (3 == btn.innerHTML) {
+                if (confirm("Vous vous être redirigé?")) {
+                    window.location = 'https://google.com';
+                }
+            }
+        }
+        // Les éléments doivent êtres controllables
+        document.body.onkeypress = (e) => {
+            if (13 === e.keyCode) {
+                document.body.removeChild(element);
+            }
+        }
+    </script>
+    <noscript>
+        This website requires JavaScript.
+    </noscript>
+
+</body>
+
+</html>

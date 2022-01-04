@@ -80,7 +80,7 @@ ___
 
 La « déclaration de conformité » est l'étape finale de la vérification de la conformité au RGAA ; elle est réalisée préalablement à la mise à disposition du service en ligne et correspond à un engagement sur l'honneur de satisfaire à l'ensemble des tests (sauf dérogation dûment justifiée) ayant un niveau WCAG déduit A et AA dans la version du RGAA en vigueur.
 
-[Déclaration de conformité en ligne](https://references.modernisation.gouv.fr/rgaa-accessibilite/guide-accompagnement-RGAA.html#Declaration-de-conformite)
+[Déclaration de conformité en ligne](https://references.modernisation.gouv.fr/publications/rgaa-accessibilite/obligations/#d%C3%A9claration-daccessibilit%C3%A9)
 
 ### 🏷️ **Contenu**
 
